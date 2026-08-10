@@ -1,0 +1,31 @@
+body{
+    display:flex;
+    justify-content:center;
+    background-color:#6c757d;
+    
+}
+
+.container{
+    height :auto;
+    width:220px;
+  //  border :2px solid black;
+   margin-top:10%;
+   
+}
+#content{
+    height :75px;
+    width:100%;
+    background-color:white;
+    color:black;
+ border:2px solid black;
+ 
+}
+.buttons{
+    border:2px solid black;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+//    background-color:#adb5bd;
+    background-color:white;
+}
+
